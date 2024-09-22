@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently learning Java.
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66ed3c09e80161c4cba8bf1d?variant=dark&roadmaps=java)](https://roadmap.sh)
+
 <!--
 **sundevi/sundevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
